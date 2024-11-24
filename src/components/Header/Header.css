@@ -1,0 +1,27 @@
+.header{
+    min-height: 60px;
+    background-color: darkred;
+    display: flex;
+    align-items: center;
+    gap: 36%;
+    width: 100%;
+}
+
+
+.image img{
+    width: 100px;
+    height: 100px;
+}
+
+.search input{
+    padding: 3px;
+    border-radius: 3px;
+}
+
+.search button{
+    border-radius: 3px;
+    padding: 3px;
+    background-color: black;
+    color: white;
+    font-family: Dialog;
+}

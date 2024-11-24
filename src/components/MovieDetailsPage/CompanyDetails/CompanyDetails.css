@@ -1,0 +1,13 @@
+.company{
+    display: flex;
+    padding: 10px 0;
+    align-items: center;
+}
+.company img{
+    width: 100px;
+}
+.company-separator{
+    width: 3px;
+    background-color: black;
+    border-radius: 10%;
+}
